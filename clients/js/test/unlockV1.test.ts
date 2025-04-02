@@ -1,7 +1,7 @@
 import {
   setComputeUnitLimit,
   TokenState as SplTokenState,
-} from '@metaplex-foundation/mpl-toolbox';
+} from '@web3auth/mpl-toolbox';
 import {
   generateSigner,
   percentAmount,

@@ -1,5 +1,5 @@
 import { UmiPlugin } from '@metaplex-foundation/umi';
-import { mplToolbox } from '@metaplex-foundation/mpl-toolbox';
+import { mplToolbox } from '@web3auth/mpl-toolbox';
 import { createMplTokenMetadataProgram } from './generated';
 
 export const mplTokenMetadata = (): UmiPlugin => ({

@@ -1,4 +1,4 @@
-import { findAssociatedTokenPda } from '@metaplex-foundation/mpl-toolbox';
+import { findAssociatedTokenPda } from '@web3auth/mpl-toolbox';
 import { generateSigner, none, some } from '@metaplex-foundation/umi';
 import test from 'ava';
 import {

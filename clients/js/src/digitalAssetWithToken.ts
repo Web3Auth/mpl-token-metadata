@@ -16,7 +16,7 @@ import {
   findAssociatedTokenPda,
   findLargestTokensByMint,
   Token,
-} from '@metaplex-foundation/mpl-toolbox';
+} from '@web3auth/mpl-toolbox';
 import { deserializeDigitalAsset, DigitalAsset } from './digitalAsset';
 import {
   deserializeTokenRecord,

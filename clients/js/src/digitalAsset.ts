@@ -4,7 +4,7 @@ import {
   FetchTokenAmountFilter,
   FetchTokenStrategy,
   Mint,
-} from '@metaplex-foundation/mpl-toolbox';
+} from '@web3auth/mpl-toolbox';
 import {
   assertAccountExists,
   chunk,

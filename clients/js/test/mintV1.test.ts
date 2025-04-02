@@ -4,7 +4,7 @@ import {
   fetchMint,
   fetchToken,
   findAssociatedTokenPda,
-} from '@metaplex-foundation/mpl-toolbox';
+} from '@web3auth/mpl-toolbox';
 import {
   generateSigner,
   percentAmount,

@@ -1,7 +1,4 @@
-import {
-  createToken,
-  findAssociatedTokenPda,
-} from '@metaplex-foundation/mpl-toolbox';
+import { createToken, findAssociatedTokenPda } from '@web3auth/mpl-toolbox';
 import {
   base58PublicKey,
   generateSigner,

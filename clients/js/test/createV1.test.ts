@@ -3,7 +3,7 @@ import {
   createMintWithAssociatedToken,
   fetchMint,
   Mint,
-} from '@metaplex-foundation/mpl-toolbox';
+} from '@web3auth/mpl-toolbox';
 import {
   addAmounts,
   generateSigner,

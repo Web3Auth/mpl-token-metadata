@@ -1,4 +1,4 @@
-import { fetchMint, Mint } from '@metaplex-foundation/mpl-toolbox';
+import { fetchMint, Mint } from '@web3auth/mpl-toolbox';
 import {
   generateSigner,
   none,

@@ -1,4 +1,4 @@
-import { getMintSize } from '@metaplex-foundation/mpl-toolbox';
+import { getMintSize } from '@web3auth/mpl-toolbox';
 import {
   ACCOUNT_HEADER_SIZE,
   Context,

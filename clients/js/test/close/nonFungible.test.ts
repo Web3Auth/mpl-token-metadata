@@ -9,7 +9,7 @@ import {
   subtractAmounts,
 } from '@metaplex-foundation/umi';
 import { readFileSync } from 'fs';
-import { burnToken } from '@metaplex-foundation/mpl-toolbox';
+import { burnToken } from '@web3auth/mpl-toolbox';
 import { createDigitalAssetWithToken, createUmi } from '../_setup';
 import {
   closeAccounts,

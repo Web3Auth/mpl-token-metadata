@@ -6,7 +6,7 @@
  * @see https://github.com/metaplex-foundation/kinobi
  */
 
-import { findAssociatedTokenPda } from '@metaplex-foundation/mpl-toolbox';
+import { findAssociatedTokenPda } from '@web3auth/mpl-toolbox';
 import {
   Context,
   Pda,

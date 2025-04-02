@@ -13,7 +13,7 @@ import {
   burnToken,
   setAuthority,
   SPL_SYSTEM_PROGRAM_ID,
-} from '@metaplex-foundation/mpl-toolbox';
+} from '@web3auth/mpl-toolbox';
 import { createDigitalAssetWithToken, createUmi } from '../_setup';
 import {
   closeAccounts,

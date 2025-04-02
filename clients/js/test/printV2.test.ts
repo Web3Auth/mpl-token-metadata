@@ -2,7 +2,7 @@ import {
   createMintWithAssociatedToken,
   findAssociatedTokenPda,
   setComputeUnitLimit,
-} from '@metaplex-foundation/mpl-toolbox';
+} from '@web3auth/mpl-toolbox';
 import {
   generateSigner,
   percentAmount,
